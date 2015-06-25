@@ -1,9 +1,5 @@
 # Game-Theory
 Learning Game-Theory with coding in Python
 
-##Packages
-・[Gambit](http://www.gambit-project.org/gambit13/index.html)  
-Compute finite, noncooperative games.
-
-(追記)  
-Gambitをインストールしようとしたが、config.hがないというエラーが出まくり挫折。  
+##References
+・岡田章著『ゲーム理論 新版』(2011, 有斐閣)
