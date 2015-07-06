@@ -1,0 +1,22 @@
+\frametitle{コードの説明とか}
+\begin{itemize}\setlength{\parskip}{0.5em}
+\item
+コードの表示の例
+\begin{verbatim}
+#Maching Pennies
+if NUM == 1:
+    titlename = 'Matching Pennies'
+    p0 = np.array([[1,-1],[-1,1]])
+    p1 = np.array([[-1,1],[1,-1]])
+#Coordination Game
+if NUM == 2:
+    titlename = 'Coordination Game'
+    p0 = np.array([[4,0],[3,2]])
+    p1 = np.array([[4,0],[3,2]])
+#Prisoner's Dilemma
+if NUM == 3:
+    titlename = 'Prisoners Dilemma'
+    p0 = np.array([[-5,0],[-10,-3]])
+    p1 = np.array([[-5,0],[-10,-3]])
+\end{verbatim}
+\end{itemize}
