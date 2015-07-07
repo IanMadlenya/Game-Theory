@@ -2,6 +2,7 @@
 Learning Game-Theory with coding in Python
 
 ##Table of Contents
+・[Gambit Tutorial ( Ipython notebook )](http://nbviewer.ipython.org/github/ogaway/Game-Theory/blob/master/Gambit.ipynb)  
 ・[Fictitious play](https://github.com/ogaway/Game-Theory/tree/master/FictitiousPlay)  
 ・[Stochastic Evolutionary Game Theory](https://github.com/ogaway/Game-Theory/tree/master/StochasticEvolution)  
 
